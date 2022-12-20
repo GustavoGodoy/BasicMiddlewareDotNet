@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrQ7pSY9t5VxU2bSzRVvinEgdn2BZZ/G5FNeIWXmf2OZKN7w15Dadh4tAmHx3hssnXpEL5tnw7VIoXnGxXKKJQ==",
+  "success": true,
+  "projectFilePath": "/Users/gustavogodoy/Documents/Projects/Dot Net/BasicMiddlewareDotNet/Jala.Custom.Middleware.API/Jala.Custom.Middleware.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/gustavogodoy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

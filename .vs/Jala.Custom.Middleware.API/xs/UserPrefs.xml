@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AE881377-4CB8-44A3-8367-1139022FAEF1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Jala.Custom.Middleware.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jala.Custom.Middleware.API/Middlewares/QueryMiddleware.cs">
+    <Files>
+      <File FileName="Jala.Custom.Middleware.API/Middlewares/QueryMiddleware.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jala.Custom.Middleware.API" expanded="True">
+            <Node name="Jala.Custom.Middleware.API" expanded="True">
+              <Node name="Middlewares" expanded="True">
+                <Node name="QueryMiddleware.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
